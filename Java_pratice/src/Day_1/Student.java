@@ -25,11 +25,5 @@ public class Student {
 			obj_ref.display();
 			obj_ref.display_2();
 			
-			
-			
-			
-			
-			
-			
 		}
 }
